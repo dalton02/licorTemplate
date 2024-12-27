@@ -1,7 +1,7 @@
 
 # Licor Template
 
-If you'are not familiar with Licor, please check the following [documentation](https://dalton02.github.io/licorDoc/docs/about).
+If you'are not familiar with Licor, please check the following [documentation](https://dalton02.github.io/licorDoc/).
 
   
 
